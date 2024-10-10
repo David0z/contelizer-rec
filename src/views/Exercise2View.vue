@@ -1,6 +1,5 @@
 <script setup lang="ts">
-import PeselValidator from "@/components/PeselValidator.vue";
-
+import PeselValidator from "@/components/exercise2/PeselValidator.vue";
 </script>
 
 <template>

@@ -1,5 +1,5 @@
 import { mount, VueWrapper } from "@vue/test-utils";
-import PeselValidator from "../PeselValidator.vue";
+import PeselValidator from "../../exercise2/PeselValidator.vue";
 import { describe, it, expect, beforeEach } from "vitest";
 
 const errorMessageShort = "PESEL musi składać się z 11 cyfr.";
